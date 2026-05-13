@@ -1,0 +1,317 @@
+{
+  "last_updated": "2026-05-13",
+  "candidate": {
+    "name": "Ijlal Ahmed",
+    "email": "shaikhijlalahmed@gmail.com",
+    "base_location": "Pakistan",
+    "experience_band": "3-5 years",
+    "primary_stack": "Java / Spring Boot",
+    "secondary_stack": ".NET Core / C#",
+    "target_regions": ["Pakistan", "UAE", "Saudi Arabia", "Germany", "Netherlands", "Switzerland", "UK"]
+  },
+  "jobs": [
+    {
+      "id": "2026-05-13-001",
+      "company": "Emirates",
+      "role": "Senior Software Engineer (Java, Backend)",
+      "location": "Dubai, UAE",
+      "fit_score": 92,
+      "status": "FOUND",
+      "found_on": "2026-05-13",
+      "source": "LinkedIn",
+      "apply_link": "https://www.linkedin.com/jobs/view/3948580855/",
+      "recruiter_email": null,
+      "work_mode": "On-site (relocation package)",
+      "salary_range_aed": "25000-40000/month",
+      "interview_trajectory": {
+        "estimated_timeline": "6-8 weeks",
+        "typical_rounds": [
+          {
+            "round": 1,
+            "name": "HR Screening",
+            "duration": "30 mins",
+            "focus": ["Background", "Notice period", "Relocation readiness", "Salary expectations in AED"],
+            "prep_time": "45 mins"
+          },
+          {
+            "round": 2,
+            "name": "Online Coding + Aptitude",
+            "duration": "90 mins",
+            "focus": ["Java DSA", "SQL", "Logic"],
+            "prep_time": "6-8 hours",
+            "resources": ["LeetCode Java tag (medium)", "HackerRank SQL intermediate"]
+          },
+          {
+            "round": 3,
+            "name": "Technical Interview 1",
+            "duration": "60 mins",
+            "focus": ["Spring Boot internals", "Concurrency", "REST/microservices", "Live coding"],
+            "prep_time": "6 hours",
+            "resources": ["Spring docs", "Java Concurrency in Practice — selected chapters"]
+          },
+          {
+            "round": 4,
+            "name": "System Design + Senior Tech",
+            "duration": "90 mins",
+            "focus": ["Booking/transactional system design", "DB sharding", "Caching", "Resilience patterns"],
+            "prep_time": "8 hours",
+            "resources": ["System Design Primer", "Designing Data-Intensive Applications — Ch 5,7,11"]
+          },
+          {
+            "round": 5,
+            "name": "Hiring Manager / Culture",
+            "duration": "45 mins",
+            "focus": ["Past project deep-dive", "Team fit", "Career goals"],
+            "prep_time": "3 hours",
+            "resources": ["STAR stories x 6", "Emirates Group strategy 2030"]
+          }
+        ],
+        "critical_topics": {
+          "technical": [
+            "Java 17/21 features (records, pattern matching, virtual threads)",
+            "Spring Boot 3.x + Spring Cloud",
+            "Microservices: service discovery, circuit breakers, distributed tracing",
+            "Transactional integrity in high-volume booking/payment flows",
+            "Oracle / PostgreSQL tuning, JPA pitfalls",
+            "AWS / OCI fundamentals (Emirates uses both)",
+            "Docker, Kubernetes basics, CI/CD with GitLab or Jenkins"
+          ],
+          "behavioral": [
+            "Walk me through the most complex production bug you solved",
+            "Time you disagreed with a senior engineer's design decision",
+            "How you balance speed vs code quality under deadline pressure",
+            "Why Emirates, why Dubai"
+          ],
+          "company_specific": [
+            "Emirates Group IT and OneAviation strategy",
+            "Recent moves into AI / digital twin / OCI partnership",
+            "Aviation domain basics: PNR, GDS, IATA codes"
+          ]
+        },
+        "recommended_prep_timeline": {
+          "week_1": "Resume tailoring to aviation/booking systems, 5 Java mediums, Emirates IT research",
+          "week_2": "Spring Boot deep-dive + 3 system design problems (booking, payments, notifications)",
+          "week_3": "STAR stories x 6, mock interview, aviation domain primer",
+          "before_interview": "Final research, technical environment check, 8h sleep"
+        }
+      },
+      "company_research": {
+        "industry": "Aviation / Enterprise IT",
+        "size": "100,000+ employees (Group)",
+        "tech_stack_observed": ["Java", "Spring Boot", "Oracle", "AWS", "OCI", "Kubernetes"],
+        "growth_trajectory": "Heavy 2026 investment in OCI migration and AI-driven ops"
+      }
+    },
+    {
+      "id": "2026-05-13-002",
+      "company": "Master-Works",
+      "role": "Senior Java Developer",
+      "location": "Riyadh, Saudi Arabia",
+      "fit_score": 91,
+      "status": "FOUND",
+      "found_on": "2026-05-13",
+      "source": "Workable",
+      "apply_link": "https://jobs.workable.com/view/kBHP2yY99qRyEBcwSC2Ehn/senior-java-developer-in-riyadh-at-master-works",
+      "recruiter_email": null,
+      "work_mode": "On-site Riyadh (up to 20% remote)",
+      "salary_range_sar": "18000-28000/month",
+      "interview_trajectory": {
+        "estimated_timeline": "4-6 weeks",
+        "typical_rounds": [
+          {"round": 1, "name": "HR Screening", "duration": "30 mins", "focus": ["Visa eligibility", "Notice period", "Compensation"], "prep_time": "30 mins"},
+          {"round": 2, "name": "Technical Screening", "duration": "60 mins", "focus": ["Java/Spring Boot fundamentals", "Coding problem"], "prep_time": "5 hours", "resources": ["LeetCode medium", "Spring Boot docs"]},
+          {"round": 3, "name": "Senior Technical / Architecture", "duration": "90 mins", "focus": ["Real project walkthrough", "Microservices design", "REST best practices"], "prep_time": "6 hours", "resources": ["Your GitHub", "System Design Primer"]},
+          {"round": 4, "name": "Client-facing Round (Master-Works is a consultancy)", "duration": "45 mins", "focus": ["Stakeholder comms", "Pakistani/KSA cultural fit"], "prep_time": "2 hours"}
+        ],
+        "critical_topics": {
+          "technical": [
+            "Spring Boot REST + microservices",
+            "JPA/Hibernate optimization",
+            "OAuth2 / JWT for enterprise integrations",
+            "SQL Server / Oracle (common in KSA gov)",
+            "Docker, basic Kubernetes"
+          ],
+          "behavioral": [
+            "Working with non-technical stakeholders",
+            "Adapting to client environments quickly",
+            "Working in a Riyadh-based team"
+          ],
+          "company_specific": [
+            "Master-Works' role in Saudi Vision 2030 digital transformation",
+            "Their public sector and banking integrations"
+          ]
+        },
+        "recommended_prep_timeline": {
+          "week_1": "Resume + 5 Java mediums + Master-Works case studies",
+          "week_2": "System design + JPA deep-dive + mock interview",
+          "week_3": "Behavioral STAR stories + cultural prep for KSA",
+          "before_interview": "Final research, sleep, tech check"
+        }
+      },
+      "company_research": {
+        "industry": "IT Services / GovTech / Banking integrator",
+        "size": "1000-5000 employees",
+        "tech_stack_observed": ["Java", "Spring Boot", "Angular", "Oracle"],
+        "growth_trajectory": "Strong tailwind from Vision 2030 budgets"
+      }
+    },
+    {
+      "id": "2026-05-13-003",
+      "company": "NorthBay Solutions",
+      "role": "Senior Java Developer (Spring Boot)",
+      "location": "Dubai, UAE",
+      "fit_score": 88,
+      "status": "FOUND",
+      "found_on": "2026-05-13",
+      "source": "LinkedIn / Company Careers",
+      "apply_link": "https://www.linkedin.com/jobs/search/?keywords=NorthBay%20Solutions%20Senior%20Java%20Developer&location=Dubai",
+      "recruiter_email": null,
+      "work_mode": "Dubai office, hybrid possible",
+      "salary_range_aed": "22000-35000/month",
+      "interview_trajectory": {
+        "estimated_timeline": "3-5 weeks",
+        "typical_rounds": [
+          {"round": 1, "name": "Recruiter Call", "duration": "30 mins", "focus": ["Background", "AWS familiarity", "Notice period"], "prep_time": "30 mins"},
+          {"round": 2, "name": "Technical Screen", "duration": "60 mins", "focus": ["Java + Spring Boot", "AWS basics", "Live coding"], "prep_time": "5 hours"},
+          {"round": 3, "name": "AWS Architecture Round", "duration": "60 mins", "focus": ["Cloud-native design", "Lambda/ECS tradeoffs", "Cost optimization"], "prep_time": "6 hours", "resources": ["AWS Well-Architected Framework"]},
+          {"round": 4, "name": "Hiring Manager", "duration": "45 mins", "focus": ["Past projects", "Consulting mindset"], "prep_time": "2 hours"}
+        ],
+        "critical_topics": {
+          "technical": [
+            "Spring Boot 3 + Java 17",
+            "AWS Lambda, ECS, RDS, S3, API Gateway",
+            "Event-driven architectures (SNS/SQS)",
+            "Docker + ECR",
+            "CI/CD with CodePipeline or GitHub Actions"
+          ],
+          "behavioral": [
+            "Client consulting experience",
+            "Multi-tenant SaaS thinking"
+          ],
+          "company_specific": [
+            "NorthBay is an AWS Premier Partner — data + cloud focus",
+            "Pakistan-headquartered with Dubai expansion"
+          ]
+        },
+        "recommended_prep_timeline": {
+          "week_1": "AWS Solutions Architect Associate refresher + Spring Boot review",
+          "week_2": "Design a multi-tenant cloud-native app end-to-end",
+          "week_3": "Behavioral + NorthBay case studies",
+          "before_interview": "AWS cost calculator practice + sleep"
+        }
+      },
+      "company_research": {
+        "industry": "Cloud / Data Consulting (AWS Premier Partner)",
+        "size": "500-1000 employees",
+        "tech_stack_observed": ["Java 17", "Spring Boot", "AWS", "Docker", "Kubernetes", "MySQL", "MongoDB"],
+        "growth_trajectory": "Expanding UAE delivery centre 2026"
+      }
+    },
+    {
+      "id": "2026-05-13-004",
+      "company": "Thales",
+      "role": "Senior Java Developer",
+      "location": "Riyadh, Saudi Arabia",
+      "fit_score": 86,
+      "status": "FOUND",
+      "found_on": "2026-05-13",
+      "source": "Thales Careers / Aggregators",
+      "apply_link": "https://zerotaxjobs.com/companies/thales/jobs/senior-java-developer-kgk9swut",
+      "recruiter_email": null,
+      "work_mode": "On-site Riyadh (relocation supported)",
+      "salary_range_sar": "20000-32000/month",
+      "interview_trajectory": {
+        "estimated_timeline": "6-10 weeks (security clearance can extend)",
+        "typical_rounds": [
+          {"round": 1, "name": "HR Screening", "duration": "30 mins", "focus": ["Background", "Security clearance eligibility"], "prep_time": "30 mins"},
+          {"round": 2, "name": "Technical Interview 1", "duration": "60 mins", "focus": ["Java fundamentals", "OOP design", "Secure coding"], "prep_time": "5 hours"},
+          {"round": 3, "name": "Technical Interview 2", "duration": "90 mins", "focus": ["Architecture", "Enterprise integration patterns"], "prep_time": "6 hours"},
+          {"round": 4, "name": "Manager + Cultural", "duration": "45 mins", "focus": ["Discretion, teamwork, Thales values"], "prep_time": "2 hours"}
+        ],
+        "critical_topics": {
+          "technical": [
+            "Core Java (collections, concurrency, JVM)",
+            "Spring framework (not just Boot)",
+            "Enterprise integration patterns",
+            "Secure coding (OWASP top 10)",
+            "PKI / crypto basics (Thales is huge in digital identity)"
+          ],
+          "behavioral": [
+            "Handling confidential information",
+            "Working in large, structured organizations"
+          ],
+          "company_specific": [
+            "Thales Digital Identity & Security division",
+            "Thales' KSA Vision 2030 contracts"
+          ]
+        },
+        "recommended_prep_timeline": {
+          "week_1": "Java/JVM deep-dive + secure coding refresh",
+          "week_2": "Enterprise integration patterns + PKI primer",
+          "week_3": "Behavioral STAR + Thales research",
+          "before_interview": "Document review, sleep"
+        }
+      },
+      "company_research": {
+        "industry": "Defense / Aerospace / Digital Identity",
+        "size": "80,000+ globally",
+        "tech_stack_observed": ["Java", "Spring", "Oracle", "PKI"],
+        "growth_trajectory": "Major KSA / UAE defense and ID contracts under Vision 2030"
+      }
+    },
+    {
+      "id": "2026-05-13-005",
+      "company": "Rozee (FinTech Domain Client)",
+      "role": "Senior Java Engineer (FinTech)",
+      "location": "Rawalpindi, Pakistan",
+      "fit_score": 82,
+      "status": "FOUND",
+      "found_on": "2026-05-13",
+      "source": "BeBee / Rozee.pk",
+      "apply_link": "https://bebee.com/pk/jobs/senior-java-engineer-fintech-domain-rozee-rawalpindi-punjab--theirstack-667355146",
+      "recruiter_email": null,
+      "work_mode": "Hybrid (Rawalpindi/Islamabad)",
+      "salary_range_pkr": "350000-650000/month (PK fintech senior benchmark)",
+      "experience_required": "5+ years (slightly above the 3-5 band — frame strongest projects)",
+      "interview_trajectory": {
+        "estimated_timeline": "2-4 weeks",
+        "typical_rounds": [
+          {"round": 1, "name": "HR + Recruiter Call", "duration": "30 mins", "focus": ["Notice period", "Salary expectation"], "prep_time": "30 mins"},
+          {"round": 2, "name": "Technical Coding", "duration": "60 mins", "focus": ["Java DSA", "Spring Boot", "Multithreading"], "prep_time": "5 hours"},
+          {"round": 3, "name": "Domain + System Design", "duration": "90 mins", "focus": ["Wallet/payment system design", "Idempotency", "ACID vs eventual consistency"], "prep_time": "6 hours"},
+          {"round": 4, "name": "CTO / Final", "duration": "45 mins", "focus": ["Long-term fit", "Leadership"], "prep_time": "2 hours"}
+        ],
+        "critical_topics": {
+          "technical": [
+            "Java multithreading + concurrency utilities",
+            "Spring Boot + Spring Cloud",
+            "Idempotent payment APIs",
+            "Message brokers (Kafka, RabbitMQ)",
+            "PostgreSQL + Redis",
+            "Security: PCI-DSS basics, secure key handling"
+          ],
+          "behavioral": [
+            "Handling production incidents in payment flows",
+            "Why fintech, why now"
+          ],
+          "company_specific": [
+            "PK fintech landscape (Raast, NIFT, SBP regulations)",
+            "Common payment rails: card, wallet, account-to-account"
+          ]
+        },
+        "recommended_prep_timeline": {
+          "week_1": "Payment systems design + Java concurrency refresh",
+          "week_2": "Mock system design (digital wallet) + Kafka basics",
+          "week_3": "Behavioral + SBP/Raast regulatory primer",
+          "before_interview": "Project walkthrough rehearsal"
+        }
+      },
+      "company_research": {
+        "industry": "FinTech (digital wallets / payment processing)",
+        "size": "100-500 employees (client; Rozee is the recruiter)",
+        "tech_stack_observed": ["Java", "Spring Boot", "Microservices", "Kafka", "PostgreSQL"],
+        "growth_trajectory": "PK fintech scaling under SBP digital banking push"
+      }
+    }
+  ]
+}
